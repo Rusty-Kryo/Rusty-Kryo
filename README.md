@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rusty-Kryo
+- 👋 Hi, I’m @Rusty
 - 👀 I’m interested in robotics 
 - 🌱 I’m currently learning Engineering
 - 💞️ I’m looking to collaborate on assessments
